@@ -1,0 +1,3 @@
+include ':app:ezetaplib'
+include ':app'
+rootProject.name = "EzetapApp1"
